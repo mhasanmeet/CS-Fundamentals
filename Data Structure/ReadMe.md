@@ -15,7 +15,7 @@
 
 1. Parity
 2. Fully 
-3. Confluently
+3. Confluently 
 
 ### Data Structure Types
 
